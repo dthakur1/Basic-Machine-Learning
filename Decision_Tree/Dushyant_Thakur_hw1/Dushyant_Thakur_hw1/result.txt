@@ -1,0 +1,114 @@
+DUSHYANT THAKUR
+
+
+
+
+
+
+
+
+
+
+##############################################################################################################################################################
+DATASET 2
+###############################################################################################################################################################
+
+Training Tree for both heuristics
+######################################
+
+###
+#  Validating the entropy heuristic tree
+###
+Accuracy on training set for entropy heuristic without pruning: 1.0
+Accuracy on validation set for entropy heuristic without pruning: 0.965
+Accuracy on test set for entropy heuristic without pruning: 0.9566666666666667
+
+###
+#  Pruning the entropy heuristic tree
+###
+Nodes before pruning the entropy heuritic tree: 
+69
+Nodes after pruning the entropy heuritic tree: 
+61
+
+Accuracy on training set for the entropy heuritic tree after pruning: 0.9933333333333333
+Accuracy on validation set for the entropy heuritic tree: 0.965
+Accuracy on test set for the entropy heuritic tree: 0.95
+
+########################################################################################################################################
+########################################################################################################################################
+
+###
+#  Validating the VI heuristic tree
+###
+Accuracy on training set for VI heuristic without pruning: 1.0
+Accuracy on validation set for VI heuristic without pruning: 0.9666666666666667
+Accuracy on test set for VI heuristic without pruning: 0.9533333333333334
+
+###
+#  Pruning the VI heuristic tree
+###
+Nodes before pruning the VI heuritic tree: 
+73
+Nodes after pruning the VI heuritic tree: 
+65
+
+Accuracy on training set for the VI heuritic tree after pruning: 0.995
+Accuracy on validation set for the VI heuritic tree after pruning: 0.9666666666666667
+Accuracy on test set for the VI heuritic tree after pruning: 0.9516666666666667
+
+
+
+
+
+##############################################################################################################################################################
+DATASET 2
+###############################################################################################################################################################
+
+Training Tree for both heuristics
+######################################
+
+###
+#  Validating the entropy heuristic tree
+###
+
+Accuracy on training set for entropy heuristic without pruning: 0.9983333333333333
+Accuracy on validation set for entropy heuristic without pruning: 0.7733333333333333
+Accuracy on test set for entropy heuristic without pruning: 0.7233333333333334
+
+###
+#  Pruning the entropy heuristic tree
+###
+Nodes before pruning the entropy heuritic tree: 
+283
+Nodes after pruning the entropy heuritic tree: 
+87
+
+Accuracy on training set for the entropy heuritic tree after pruning: 0.845
+Accuracy on validation set for the entropy heuritic tree: 0.8116666666666666
+Accuracy on test set for the entropy heuritic tree: 0.755
+
+########################################################################################################################################
+########################################################################################################################################
+
+
+###
+#  Validating the VI heuristic tree
+###
+
+
+Accuracy on training set for VI heuristic without pruning: 0.9983333333333333
+Accuracy on validation set for VI heuristic without pruning: 0.7733333333333333
+Accuracy on test set for VI heuristic without pruning: 0.725
+
+###
+#  Pruning the VI heuristic tree
+###
+Nodes before pruning the VI heuritic tree: 
+281
+Nodes after pruning the VI heuritic tree: 
+95
+
+Accuracy on training set for the VI heuritic tree after pruning: 0.8516666666666667
+Accuracy on validation set for the VI heuritic tree after pruning: 0.8133333333333334
+Accuracy on test set for the VI heuritic tree after pruning: 0.75
